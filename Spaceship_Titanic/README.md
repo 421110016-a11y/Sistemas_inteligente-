@@ -148,4 +148,4 @@ Finalmente, logramos desarrollar un proceso completo de Machine Learning, desde 
 
 ---
 
-**Proyecto académico — Redes Neuronales Artificiales.**
+
